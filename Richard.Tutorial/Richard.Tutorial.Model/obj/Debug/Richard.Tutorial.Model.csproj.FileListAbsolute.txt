@@ -1,0 +1,10 @@
+c:\users\richard\documents\visual studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\bin\Debug\Richard.Tutorial.Model.dll
+c:\users\richard\documents\visual studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\bin\Debug\Richard.Tutorial.Model.pdb
+c:\users\richard\documents\visual studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\obj\Debug\Richard.Tutorial.Model.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\obj\Debug\Richard.Tutorial.Model.dll
+c:\users\richard\documents\visual studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\obj\Debug\Richard.Tutorial.Model.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\bin\Debug\Richard.Tutorial.Model.dll.config
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.Model\bin\Debug\EntityFramework.SqlServer.xml

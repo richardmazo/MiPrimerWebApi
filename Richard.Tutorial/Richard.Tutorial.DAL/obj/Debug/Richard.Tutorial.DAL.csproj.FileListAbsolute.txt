@@ -1,0 +1,13 @@
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\Richard.Tutorial.DAL.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\Richard.Tutorial.DAL.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\AutoMapper.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\Richard.Tutorial.DTL.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\Richard.Tutorial.Model.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\Richard.Tutorial.DTL.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\Richard.Tutorial.Model.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\AutoMapper.xml
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\obj\Debug\Richard.Tutorial.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\obj\Debug\Richard.Tutorial.DAL.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DAL\obj\Debug\Richard.Tutorial.DAL.pdb

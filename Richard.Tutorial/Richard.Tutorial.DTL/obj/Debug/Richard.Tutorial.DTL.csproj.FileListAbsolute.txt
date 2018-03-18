@@ -1,0 +1,5 @@
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DTL\obj\Debug\Richard.Tutorial.DTL.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DTL\bin\Debug\Richard.Tutorial.DTL.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DTL\bin\Debug\Richard.Tutorial.DTL.pdb
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DTL\obj\Debug\Richard.Tutorial.DTL.dll
+C:\Users\Richard\Documents\Visual Studio 2015\Projects\Richard.Tutorial\Richard.Tutorial.DTL\obj\Debug\Richard.Tutorial.DTL.pdb
